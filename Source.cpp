@@ -13,6 +13,6 @@ int main()
 	int angka_acak = rand() % 102;
 
 	cout << "Angka acak: " << angka_acak << endl;
-	std::cin.get();
+	cin.get();
 	return 0;
 }
